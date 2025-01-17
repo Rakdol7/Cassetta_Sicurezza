@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassetta_Sicurezza", "Cassetta_Sicurezza\Cassetta_Sicurezza.csproj", "{639B80AA-8C9E-4AD4-A678-1371D971B7CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{639B80AA-8C9E-4AD4-A678-1371D971B7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639B80AA-8C9E-4AD4-A678-1371D971B7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639B80AA-8C9E-4AD4-A678-1371D971B7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639B80AA-8C9E-4AD4-A678-1371D971B7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4A73934-41A3-4443-8BC6-75AA91F28D9C}
+	EndGlobalSection
+EndGlobal

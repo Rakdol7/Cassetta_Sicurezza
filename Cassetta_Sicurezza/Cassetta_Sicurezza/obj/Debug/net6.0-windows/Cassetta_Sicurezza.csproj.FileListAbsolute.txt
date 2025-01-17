@@ -1,0 +1,16 @@
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\bin\Debug\net6.0-windows\Cassetta_Sicurezza.exe
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\bin\Debug\net6.0-windows\Cassetta_Sicurezza.deps.json
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\bin\Debug\net6.0-windows\Cassetta_Sicurezza.runtimeconfig.json
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\bin\Debug\net6.0-windows\Cassetta_Sicurezza.dll
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\bin\Debug\net6.0-windows\Cassetta_Sicurezza.pdb
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\obj\Debug\net6.0-windows\Cassetta_Sicurezza.Form1.resources
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\obj\Debug\net6.0-windows\Cassetta_Sicurezza.csproj.GenerateResource.cache
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\obj\Debug\net6.0-windows\Cassetta_Sicurezza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\obj\Debug\net6.0-windows\Cassetta_Sicurezza.AssemblyInfoInputs.cache
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\obj\Debug\net6.0-windows\Cassetta_Sicurezza.AssemblyInfo.cs
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\obj\Debug\net6.0-windows\Cassetta_Sicurezza.csproj.CoreCompileInputs.cache
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\obj\Debug\net6.0-windows\Cassetta_Sicurezza.dll
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\obj\Debug\net6.0-windows\refint\Cassetta_Sicurezza.dll
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\obj\Debug\net6.0-windows\Cassetta_Sicurezza.pdb
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\obj\Debug\net6.0-windows\Cassetta_Sicurezza.genruntimeconfig.cache
+C:\Users\masnada.21197\Desktop\Cassetta_Sicurezza\Cassetta_Sicurezza\obj\Debug\net6.0-windows\ref\Cassetta_Sicurezza.dll
